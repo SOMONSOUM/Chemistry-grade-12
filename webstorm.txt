@@ -1,0 +1,4 @@
+http://www.imsxm.com/jetbrains-license-server.html
+
+Server: http://idea.imsxm.com
+
